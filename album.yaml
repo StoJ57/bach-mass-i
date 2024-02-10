@@ -1,0 +1,19 @@
+name: Mass in B minor: 1. Kyrie and Gloria (Missa)
+artist: J. S. Bach
+performer: Netherlands Bach Society
+art: https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88
+
+include:
+  - Kyrie eleison (Coro): https://raw.githubusercontent.com/StoJ57/bach-mass-i/main/Kyrie eleison (Coro) 1.mp3
+  - Christe eleison (Coro): https://raw.githubusercontent.com/StoJ57/bach-mass-i/main/Christe eleison (Coro).mp3
+  - Kyrie eleison (Coro): https://raw.githubusercontent.com/StoJ57/bach-mass-i/main/Kyrie eleison (Coro) 2.mp3
+  - Gloria in excelsis Deo (Coro): https://raw.githubusercontent.com/StoJ57/bach-mass-i/main/Gloria in excelsis Deo (Coro).mp3
+  - Et in terra pax (Coro): https://raw.githubusercontent.com/StoJ57/bach-mass-i/main/Et in terra pax (Coro).mp3
+  - Laudamus te (Aria): https://raw.githubusercontent.com/StoJ57/bach-mass-i/main/Laudamus te (Aria).mp3
+  - Gratias agimus tibi (Coro): https://raw.githubusercontent.com/StoJ57/bach-mass-i/main/Gratias agimus tibi (Coro).mp3
+  - Domine Deus (Duetto): https://raw.githubusercontent.com/StoJ57/bach-mass-i/main/Domine Deus (Duetto).mp3
+  - Qui tollis peccata mundi: https://raw.githubusercontent.com/StoJ57/bach-mass-i/main/Qui tollis peccata mundi.mp3
+  - Qui sedes ad dexteram Patris (Aria): https://raw.githubusercontent.com/StoJ57/bach-mass-i/main/Qui sedes ad dexteram Patris (Aria).mp3
+  - Quoniam tu solus sanctus: https://raw.githubusercontent.com/StoJ57/bach-mass-i/main/Quoniam tu solus sanctus.mp3
+  - Cum Sancto Spritu (Coro): https://raw.githubusercontent.com/StoJ57/bach-mass-i/main/Cum Sancto Spritu (Coro).mp3
+
