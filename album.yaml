@@ -1,4 +1,4 @@
-name: Mass in B minor: 1. Kyrie and Gloria (Missa)
+name: 'Mass in B minor: 1. Kyrie and Gloria (Missa)'
 artist: J. S. Bach
 performer: Netherlands Bach Society
 art: https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88
@@ -16,4 +16,3 @@ include:
   - Qui sedes ad dexteram Patris (Aria): https://raw.githubusercontent.com/StoJ57/bach-mass-i/main/Qui sedes ad dexteram Patris (Aria).mp3
   - Quoniam tu solus sanctus: https://raw.githubusercontent.com/StoJ57/bach-mass-i/main/Quoniam tu solus sanctus.mp3
   - Cum Sancto Spritu (Coro): https://raw.githubusercontent.com/StoJ57/bach-mass-i/main/Cum Sancto Spritu (Coro).mp3
-
