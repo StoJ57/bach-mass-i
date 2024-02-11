@@ -2,6 +2,7 @@ name: 'Mass in B minor: 1. Kyrie and Gloria (Missa)'
 artist: J. S. Bach
 performer: Netherlands Bach Society
 art: https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88
+browseable: false
 
 include:
   - Kyrie eleison (Coro): https://raw.githubusercontent.com/StoJ57/bach-mass-i/main/Kyrie eleison (Coro) 1.mp3
